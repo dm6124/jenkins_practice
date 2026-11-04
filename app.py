@@ -3,4 +3,5 @@ def function_new(name):
 
 
 
-function_new("Raj")
+function_new("Velu Nachiyar")
+function_new("Bhagat Singh")
